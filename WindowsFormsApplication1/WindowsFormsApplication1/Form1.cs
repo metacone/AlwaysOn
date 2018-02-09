@@ -11,6 +11,8 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApplication1
 {
+    // https://www.slideshare.net/ParkJaiChang/visual-studio-2013-github
+    // 연결 방법
     public partial class Form1 : Form
     {
         public Form1()
